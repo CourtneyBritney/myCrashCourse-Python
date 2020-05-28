@@ -1,0 +1,3 @@
+My name is Courtney.
+I am studying computer programming.
+I am currently attending a Java bootcamp course at code college.

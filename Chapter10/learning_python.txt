@@ -1,0 +1,3 @@
+In python you can read files.
+In python you can write to files.
+In python you can while loop for as long as a condition is true.
